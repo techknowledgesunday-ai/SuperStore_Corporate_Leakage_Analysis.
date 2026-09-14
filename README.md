@@ -18,5 +18,3 @@ Strategic Recommendations
    2. Logistics Tier Restructuring: Implement stricter Service Level Agreements (SLAs) and tracking mechanisms for Standard Class shipments. Transition high-volume retail accounts to optimized routing strategies to compress the 3.93-day processing average.
    3. Furniture Vertical Controls: Revise packaging standards, transit routing, and return-merchandise authorization (RMA) workflows specifically for the high-volume Furniture line to mitigate its disproportionate $12.86K leakage footprint.
 
-Since this uses the famous Sample Superstore data, recruiters will love seeing how you turned a standard learning dataset into an advanced business intelligence project.
-Would you like me to generate a Technical Implementation section next to show how you calculated these metrics using DAX / Power Query**
